@@ -3,4 +3,11 @@ body{
     background-image: url(./img/back03.jpg);
     background-size: auto;
     /* background-position: right bottom; */
- 
+}
+
+.dec21{
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 50px;
+    border-color: aquamarine;
+}
